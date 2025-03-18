@@ -1,5 +1,5 @@
 use std::process::Command;
-const AUTH_KEY: &str = "tskey-auth-krCQJfRtaD11CNTRL-74RHek7tBBYmauFvNcQDBYDzAdBDKi5e";
+const AUTH_KEY: &str = ""; //your tailscale api key
 const LOGIN_SERVER: &str = "https://login.tailscale.com";
 
 /// Connects to Tailscale VPN with username and password
